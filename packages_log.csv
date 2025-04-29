@@ -1,0 +1,1985 @@
+Timestamp,Employee,Status,Confidence
+2025-04-26 01:28:51,Operator 1,Defective,0.54
+2025-04-26 01:28:53,Operator 1,Defective,0.60
+2025-04-26 01:28:53,Operator 1,Defective,0.38
+2025-04-26 01:28:53,Operator 1,Defective,0.73
+2025-04-26 01:28:53,Operator 1,Defective,0.78
+2025-04-26 01:28:53,Operator 1,Defective,0.78
+2025-04-26 01:28:53,Operator 1,Defective,0.57
+2025-04-26 01:28:54,Operator 1,Defective,0.46
+2025-04-26 01:28:55,Operator 1,Defective,0.25
+2025-04-26 01:28:56,Operator 1,Defective,0.28
+2025-04-26 01:28:58,Operator 1,Defective,0.26
+2025-04-26 01:28:58,Operator 1,Defective,0.26
+2025-04-26 01:29:01,Operator 1,Defective,0.33
+2025-04-26 01:29:01,Operator 1,Defective,0.32
+2025-04-26 01:29:02,Operator 1,Defective,0.57
+2025-04-26 01:29:02,Operator 1,Defective,0.58
+2025-04-26 01:29:02,Operator 1,Defective,0.76
+2025-04-26 01:29:03,Operator 1,Defective,0.66
+2025-04-26 01:29:03,Operator 1,Defective,0.71
+2025-04-26 01:29:03,Operator 1,Defective,0.60
+2025-04-26 01:29:03,Operator 1,Good,0.83
+2025-04-26 01:29:04,Operator 1,Defective,0.26
+2025-04-26 01:29:04,Operator 1,Defective,0.30
+2025-04-26 01:29:04,Operator 1,Defective,0.38
+2025-04-26 01:29:04,Operator 1,Defective,0.29
+2025-04-26 01:29:04,Operator 1,Defective,0.48
+2025-04-26 01:29:14,Operator 1,Defective,0.36
+2025-04-26 01:29:14,Operator 1,Defective,0.38
+2025-04-26 01:29:14,Operator 1,Defective,0.34
+2025-04-26 01:29:15,Operator 1,Defective,0.29
+2025-04-26 01:29:15,Operator 1,Defective,0.37
+2025-04-26 01:29:15,Operator 1,Defective,0.44
+2025-04-26 10:14:55,Operator 1,Defective,0.36
+2025-04-26 10:14:55,Operator 1,Defective,0.26
+2025-04-26 10:14:56,Operator 1,Defective,0.31
+2025-04-26 10:14:56,Operator 1,Defective,0.34
+2025-04-26 10:14:56,Operator 1,Defective,0.31
+2025-04-26 10:15:25,Operator 1,Defective,0.25
+2025-04-26 10:15:25,Operator 1,Defective,0.32
+2025-04-26 10:15:25,Operator 1,Defective,0.29
+2025-04-26 10:15:26,Operator 1,Defective,0.30
+2025-04-26 10:15:26,Operator 1,Defective,0.30
+2025-04-26 10:15:26,Operator 1,Defective,0.30
+2025-04-26 10:15:26,Operator 1,Defective,0.38
+2025-04-26 10:15:26,Operator 1,Defective,0.37
+2025-04-26 10:15:27,Operator 1,Defective,0.32
+2025-04-26 10:15:27,Operator 1,Defective,0.39
+2025-04-26 10:15:27,Operator 1,Defective,0.27
+2025-04-26 10:15:27,Operator 1,Defective,0.33
+2025-04-26 10:15:27,Operator 1,Defective,0.31
+2025-04-26 10:15:28,Operator 1,Defective,0.28
+2025-04-26 10:15:28,Operator 1,Defective,0.27
+2025-04-26 10:15:29,Operator 1,Defective,0.26
+2025-04-26 10:15:29,Operator 1,Defective,0.26
+2025-04-26 10:15:29,Operator 1,Defective,0.28
+2025-04-26 10:15:29,Operator 1,Defective,0.28
+2025-04-26 10:15:30,Operator 1,Defective,0.30
+2025-04-26 10:15:30,Operator 1,Defective,0.35
+2025-04-26 10:15:30,Operator 1,Defective,0.35
+2025-04-26 10:15:30,Operator 1,Defective,0.36
+2025-04-29 08:44:34,Operator 1,wrinkle,Potentially Defective,0.66,139,220
+2025-04-29 08:44:34,Operator 1,scuff,Potentially Defective,0.65,88,237
+2025-04-29 08:44:34,Operator 1,rupture,Potentially Defective,0.65,298,383
+2025-04-29 08:44:34,Operator 1,rupture,Potentially Defective,0.67,297,376
+2025-04-29 08:44:34,Operator 1,scuff,Potentially Defective,0.63,88,236
+2025-04-29 08:44:34,Operator 1,wrinkle,Potentially Defective,0.61,139,216
+2025-04-29 08:44:34,Operator 1,rupture,Potentially Defective,0.75,301,373
+2025-04-29 08:44:34,Operator 1,wrinkle,Potentially Defective,0.58,139,214
+2025-04-29 08:44:34,Operator 1,rupture,Potentially Defective,0.57,114,345
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.65,117,365
+2025-04-29 08:44:43,Operator 1,wrinkle,Potentially Defective,0.58,483,453
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.28,477,455
+2025-04-29 08:44:43,Operator 1,wrinkle,Potentially Defective,0.70,482,447
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.66,117,362
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.28,476,454
+2025-04-29 08:44:43,Operator 1,wrinkle,Potentially Defective,0.25,68,194
+2025-04-29 08:44:43,Operator 1,wrinkle,Potentially Defective,0.76,489,456
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.63,115,416
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.42,32,20
+2025-04-29 08:44:43,Operator 1,wrinkle,Good,0.80,476,451
+2025-04-29 08:44:43,Operator 1,rupture,Potentially Defective,0.72,117,383
+2025-04-29 08:44:44,Operator 1,wrinkle,Good,0.81,499,454
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.70,123,390
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.26,74,77
+2025-04-29 08:44:44,Operator 1,wrinkle,Good,0.87,494,456
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.74,128,360
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.38,71,195
+2025-04-29 08:44:44,Operator 1,wrinkle,Good,0.89,486,456
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.74,127,360
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.28,70,196
+2025-04-29 08:44:44,Operator 1,wrinkle,Good,0.91,496,460
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.75,130,385
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.33,70,200
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.75,132,355
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.59,154,460
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.46,70,199
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.31,495,470
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.28,289,458
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.25,216,456
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.75,130,363
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.58,149,451
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.50,69,195
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.28,238,454
+2025-04-29 08:44:44,Operator 1,rupture,Potentially Defective,0.27,69,76
+2025-04-29 08:44:44,Operator 1,wrinkle,Potentially Defective,0.26,511,472
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.75,130,360
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.57,156,447
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.55,72,193
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.41,281,450
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.29,104,240
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.75,131,355
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.63,359,461
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.55,151,456
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.53,73,192
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.47,529,466
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.74,130,358
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.59,305,464
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.58,149,453
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.45,74,194
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.35,582,471
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.29,159,447
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.74,130,361
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.61,276,461
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.51,157,451
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.44,73,193
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.38,584,470
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.32,602,179
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.75,128,361
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.54,278,460
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.51,72,194
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.34,146,468
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.33,545,465
+2025-04-29 08:44:45,Operator 1,rupture,Potentially Defective,0.28,599,178
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.26,73,478
+2025-04-29 08:44:45,Operator 1,wrinkle,Potentially Defective,0.25,71,311
+2025-04-29 08:44:46,Operator 1,rupture,Potentially Defective,0.74,130,352
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.61,343,459
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.47,73,192
+2025-04-29 08:44:46,Operator 1,rupture,Potentially Defective,0.73,130,375
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.52,332,452
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.50,544,457
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.47,72,194
+2025-04-29 08:44:46,Operator 1,rupture,Potentially Defective,0.74,133,367
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.63,566,466
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.43,74,193
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.41,272,450
+2025-04-29 08:44:46,Operator 1,wrinkle,Good,0.86,517,462
+2025-04-29 08:44:46,Operator 1,rupture,Potentially Defective,0.74,128,351
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.54,69,196
+2025-04-29 08:44:46,Operator 1,wrinkle,Good,0.92,541,462
+2025-04-29 08:44:46,Operator 1,rupture,Potentially Defective,0.73,131,388
+2025-04-29 08:44:46,Operator 1,wrinkle,Potentially Defective,0.32,70,199
+2025-04-29 08:44:47,Operator 1,wrinkle,Good,0.85,475,459
+2025-04-29 08:44:47,Operator 1,rupture,Potentially Defective,0.73,131,388
+2025-04-29 08:44:47,Operator 1,wrinkle,Potentially Defective,0.28,69,201
+2025-04-29 08:44:47,Operator 1,wrinkle,Good,0.89,507,462
+2025-04-29 08:44:47,Operator 1,rupture,Potentially Defective,0.74,129,354
+2025-04-29 08:44:47,Operator 1,wrinkle,Good,0.82,509,459
+2025-04-29 08:44:47,Operator 1,rupture,Potentially Defective,0.75,130,356
+2025-04-29 08:44:47,Operator 1,wrinkle,Potentially Defective,0.33,71,198
+2025-04-29 08:44:47,Operator 1,rupture,Potentially Defective,0.27,70,76
+2025-04-29 08:44:47,Operator 1,wrinkle,Potentially Defective,0.78,527,455
+2025-04-29 08:44:47,Operator 1,rupture,Potentially Defective,0.74,130,358
+2025-04-29 08:44:47,Operator 1,wrinkle,Potentially Defective,0.30,70,198
+2025-04-29 08:44:47,Operator 1,wrinkle,Potentially Defective,0.27,298,448
+2025-04-29 08:44:48,Operator 1,wrinkle,Good,0.86,494,454
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.73,129,379
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.35,71,198
+2025-04-29 08:44:48,Operator 1,wrinkle,Good,0.85,486,456
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.74,129,365
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.29,70,198
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.26,69,76
+2025-04-29 08:44:48,Operator 1,wrinkle,Good,0.89,500,464
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.74,129,362
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.44,71,200
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.75,518,465
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.74,131,367
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.44,70,198
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.27,69,75
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.78,501,465
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.75,129,367
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.57,69,196
+2025-04-29 08:44:48,Operator 1,wrinkle,Good,0.81,531,466
+2025-04-29 08:44:48,Operator 1,rupture,Potentially Defective,0.75,130,358
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.54,69,194
+2025-04-29 08:44:48,Operator 1,wrinkle,Potentially Defective,0.39,272,458
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.75,130,356
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.74,535,464
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.45,73,194
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.31,271,452
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.75,130,367
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.74,560,460
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.39,73,194
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.26,69,76
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.74,130,362
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.67,527,464
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.42,73,192
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.25,270,451
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.73,129,367
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.70,533,462
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.44,73,193
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.75,131,372
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.65,500,463
+2025-04-29 08:44:49,Operator 1,wrinkle,Potentially Defective,0.46,74,192
+2025-04-29 08:44:49,Operator 1,rupture,Potentially Defective,0.26,69,76
+2025-04-29 08:44:50,Operator 1,rupture,Potentially Defective,0.74,131,387
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.68,525,465
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.38,73,194
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.79,500,465
+2025-04-29 08:44:50,Operator 1,rupture,Potentially Defective,0.75,129,352
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.48,73,191
+2025-04-29 08:44:50,Operator 1,wrinkle,Good,0.83,490,461
+2025-04-29 08:44:50,Operator 1,rupture,Potentially Defective,0.74,128,360
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.45,70,194
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.80,477,463
+2025-04-29 08:44:50,Operator 1,rupture,Potentially Defective,0.74,131,370
+2025-04-29 08:44:50,Operator 1,wrinkle,Potentially Defective,0.54,70,198
+2025-04-29 08:44:50,Operator 1,rupture,Potentially Defective,0.25,69,76
+2025-04-29 08:44:51,Operator 1,wrinkle,Good,0.87,481,462
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.76,129,352
+2025-04-29 08:44:51,Operator 1,wrinkle,Potentially Defective,0.33,73,194
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.75,129,360
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.62,435,453
+2025-04-29 08:44:51,Operator 1,wrinkle,Potentially Defective,0.39,465,456
+2025-04-29 08:44:51,Operator 1,wrinkle,Potentially Defective,0.37,69,200
+2025-04-29 08:44:51,Operator 1,rupture,Good,0.84,398,445
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.75,129,361
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.80,380,447
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.74,129,353
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.72,130,345
+2025-04-29 08:44:51,Operator 1,rupture,Potentially Defective,0.70,351,453
+2025-04-29 08:44:51,Operator 1,wrinkle,Potentially Defective,0.67,140,205
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.79,302,476
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.61,133,341
+2025-04-29 08:44:52,Operator 1,wrinkle,Potentially Defective,0.52,140,202
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.79,434,474
+2025-04-29 08:44:52,Operator 1,wrinkle,Potentially Defective,0.56,140,203
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.43,106,239
+2025-04-29 08:44:52,Operator 1,wrinkle,Potentially Defective,0.63,140,210
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.50,465,469
+2025-04-29 08:44:52,Operator 1,wrinkle,Potentially Defective,0.68,140,208
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.48,410,477
+2025-04-29 08:44:52,Operator 1,wrinkle,Potentially Defective,0.61,141,209
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.46,455,470
+2025-04-29 08:44:52,Operator 1,rupture,Potentially Defective,0.30,105,245
+2025-04-29 08:44:53,Operator 1,wrinkle,Potentially Defective,0.62,140,202
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.57,479,461
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.42,107,247
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.60,469,453
+2025-04-29 08:44:53,Operator 1,wrinkle,Potentially Defective,0.57,141,204
+2025-04-29 08:44:53,Operator 1,wrinkle,Potentially Defective,0.72,140,212
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.69,405,466
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.33,105,242
+2025-04-29 08:44:53,Operator 1,wrinkle,Potentially Defective,0.67,140,207
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.67,440,467
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.35,105,246
+2025-04-29 08:44:53,Operator 1,rupture,Potentially Defective,0.61,375,478
+2025-04-29 08:44:53,Operator 1,wrinkle,Potentially Defective,0.59,141,208
+2025-04-29 08:44:54,Operator 1,wrinkle,Potentially Defective,0.65,140,208
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.53,454,465
+2025-04-29 08:44:54,Operator 1,wrinkle,Potentially Defective,0.68,139,206
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.53,458,465
+2025-04-29 08:44:54,Operator 1,wrinkle,Potentially Defective,0.67,140,209
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.49,451,466
+2025-04-29 08:44:54,Operator 1,wrinkle,Potentially Defective,0.64,140,204
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.53,444,469
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.43,108,235
+2025-04-29 08:44:54,Operator 1,wrinkle,Potentially Defective,0.63,140,208
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.54,397,479
+2025-04-29 08:44:54,Operator 1,rupture,Potentially Defective,0.26,107,227
+2025-04-29 08:44:55,Operator 1,wrinkle,Potentially Defective,0.66,140,211
+2025-04-29 08:44:55,Operator 1,rupture,Potentially Defective,0.54,446,466
+2025-04-29 08:44:55,Operator 1,wrinkle,Potentially Defective,0.65,140,206
+2025-04-29 08:44:55,Operator 1,rupture,Potentially Defective,0.56,455,466
+2025-04-29 08:44:55,Operator 1,rupture,Potentially Defective,0.64,465,475
+2025-04-29 08:44:55,Operator 1,wrinkle,Potentially Defective,0.54,140,204
+2025-04-29 08:44:55,Operator 1,rupture,Potentially Defective,0.27,107,236
+2025-04-29 08:44:55,Operator 1,wrinkle,Potentially Defective,0.61,140,200
+2025-04-29 08:44:55,Operator 1,rupture,Potentially Defective,0.60,457,463
+2025-04-29 08:44:56,Operator 1,wrinkle,Potentially Defective,0.63,140,205
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.55,465,465
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.37,108,242
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.55,476,461
+2025-04-29 08:44:56,Operator 1,wrinkle,Potentially Defective,0.51,140,202
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.40,110,240
+2025-04-29 08:44:56,Operator 1,wrinkle,Potentially Defective,0.62,140,207
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.55,473,461
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.29,114,240
+2025-04-29 08:44:56,Operator 1,wrinkle,Potentially Defective,0.63,141,207
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.50,393,478
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.56,471,461
+2025-04-29 08:44:56,Operator 1,rupture,Potentially Defective,0.45,119,242
+2025-04-29 08:44:56,Operator 1,wrinkle,Potentially Defective,0.38,141,205
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.58,140,206
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.55,449,466
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.50,117,244
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.50,141,207
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.50,402,478
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.27,118,226
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.58,139,209
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.48,489,461
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.29,112,251
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.74,140,212
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.52,472,461
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.31,106,247
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.63,140,206
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.56,470,459
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.52,106,245
+2025-04-29 08:44:57,Operator 1,wrinkle,Potentially Defective,0.59,140,208
+2025-04-29 08:44:57,Operator 1,rupture,Potentially Defective,0.47,426,464
+2025-04-29 08:44:58,Operator 1,wrinkle,Potentially Defective,0.62,140,207
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.58,319,478
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.31,481,458
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.64,325,478
+2025-04-29 08:44:58,Operator 1,wrinkle,Potentially Defective,0.51,141,203
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.32,103,214
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.76,319,478
+2025-04-29 08:44:58,Operator 1,wrinkle,Potentially Defective,0.48,141,203
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.72,322,478
+2025-04-29 08:44:58,Operator 1,wrinkle,Potentially Defective,0.53,141,204
+2025-04-29 08:44:58,Operator 1,rupture,Potentially Defective,0.74,317,478
+2025-04-29 08:44:58,Operator 1,wrinkle,Potentially Defective,0.53,140,203
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.76,309,478
+2025-04-29 08:44:59,Operator 1,wrinkle,Potentially Defective,0.62,139,207
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.37,103,218
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.73,313,478
+2025-04-29 08:44:59,Operator 1,wrinkle,Potentially Defective,0.45,140,200
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.38,103,210
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.65,324,478
+2025-04-29 08:44:59,Operator 1,wrinkle,Potentially Defective,0.53,140,207
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.29,104,230
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.27,454,462
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.71,309,477
+2025-04-29 08:44:59,Operator 1,wrinkle,Potentially Defective,0.53,140,205
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.39,105,229
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.68,403,477
+2025-04-29 08:44:59,Operator 1,wrinkle,Potentially Defective,0.58,140,206
+2025-04-29 08:44:59,Operator 1,rupture,Potentially Defective,0.48,106,216
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.66,413,477
+2025-04-29 08:45:00,Operator 1,wrinkle,Potentially Defective,0.61,140,207
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.46,106,216
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.63,417,471
+2025-04-29 08:45:00,Operator 1,wrinkle,Potentially Defective,0.46,139,205
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.68,397,477
+2025-04-29 08:45:00,Operator 1,wrinkle,Potentially Defective,0.58,140,207
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.32,48,93
+2025-04-29 08:45:00,Operator 1,wrinkle,Potentially Defective,0.68,140,210
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.58,422,468
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.28,74,90
+2025-04-29 08:45:00,Operator 1,rupture,Potentially Defective,0.25,106,237
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.64,140,210
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.50,467,468
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.51,466,467
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.50,140,207
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.64,140,206
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.43,481,466
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.27,627,464
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.65,140,210
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.51,475,468
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.37,540,465
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.29,107,239
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.67,140,210
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.57,476,468
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.39,530,463
+2025-04-29 08:45:01,Operator 1,wrinkle,Potentially Defective,0.64,140,209
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.53,483,471
+2025-04-29 08:45:01,Operator 1,rupture,Potentially Defective,0.42,120,248
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.56,140,207
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.42,474,471
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.38,518,476
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.30,119,245
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.66,140,206
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.44,389,479
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.29,102,93
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.28,577,476
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.50,376,475
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.39,142,209
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.27,69,75
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.58,141,205
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.47,380,479
+2025-04-29 08:45:02,Operator 1,wrinkle,Potentially Defective,0.60,141,210
+2025-04-29 08:45:02,Operator 1,rupture,Potentially Defective,0.41,383,479
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.62,140,213
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.55,625,479
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.28,521,471
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.28,118,211
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.56,140,208
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.39,482,469
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.36,508,476
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.26,109,246
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.66,139,209
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.42,482,478
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.29,480,470
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.66,141,206
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.48,381,479
+2025-04-29 08:45:03,Operator 1,rupture,Potentially Defective,0.36,104,244
+2025-04-29 08:45:03,Operator 1,wrinkle,Potentially Defective,0.35,68,197
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.59,140,209
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.51,383,479
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.33,69,193
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.30,45,92
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.68,141,204
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.63,372,479
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.49,106,204
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.42,69,191
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.65,371,479
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.61,141,206
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.49,69,191
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.28,67,77
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.26,93,94
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.25,106,235
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.67,365,479
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.52,141,206
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.39,69,192
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.63,149,76
+2025-04-29 08:45:04,Operator 1,rupture,Potentially Defective,0.38,456,479
+2025-04-29 08:45:04,Operator 1,wrinkle,Potentially Defective,0.34,485,474
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.65,141,205
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.34,455,479
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.31,584,477
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.27,48,89
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.39,462,446
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.37,141,198
+2025-04-29 08:45:05,Operator 1,rupture,Good,0.82,283,477
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.29,359,435
+2025-04-29 08:45:05,Operator 1,rupture,Good,0.85,290,477
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.62,323,201
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.60,328,131
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.25,63,196
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.79,305,472
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.67,223,133
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.45,73,462
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.44,73,192
+2025-04-29 08:45:05,Operator 1,wrinkle,Potentially Defective,0.43,70,268
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.41,109,452
+2025-04-29 08:45:05,Operator 1,rupture,Potentially Defective,0.38,313,140
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.78,308,473
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.59,73,191
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.51,72,461
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.40,308,150
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.33,318,440
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.76,305,477
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.71,297,148
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.55,68,191
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.52,313,450
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.29,240,375
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.28,70,437
+2025-04-29 08:45:06,Operator 1,rupture,Good,0.91,266,152
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.78,318,478
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.52,69,197
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.46,71,447
+2025-04-29 08:45:06,Operator 1,rupture,Good,0.90,272,158
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.74,324,478
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.53,68,199
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.47,70,377
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.78,333,478
+2025-04-29 08:45:06,Operator 1,rupture,Potentially Defective,0.71,268,168
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.38,69,202
+2025-04-29 08:45:06,Operator 1,wrinkle,Potentially Defective,0.33,71,458
+2025-04-29 08:45:07,Operator 1,rupture,Good,0.91,261,161
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.77,335,478
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.42,70,203
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.35,71,455
+2025-04-29 08:45:07,Operator 1,rupture,Good,0.91,255,164
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.77,336,478
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.38,69,200
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.36,71,403
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.33,191,54
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.30,101,77
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.25,104,116
+2025-04-29 08:45:07,Operator 1,rupture,Good,0.90,249,165
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.77,338,478
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.58,83,170
+2025-04-29 08:45:07,Operator 1,rupture,Good,0.90,248,161
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.77,341,478
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.57,81,166
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.36,70,202
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.30,72,359
+2025-04-29 08:45:07,Operator 1,rupture,Good,0.91,249,162
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.78,338,478
+2025-04-29 08:45:07,Operator 1,rupture,Potentially Defective,0.77,82,166
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.43,69,200
+2025-04-29 08:45:07,Operator 1,wrinkle,Potentially Defective,0.40,72,325
+2025-04-29 08:45:08,Operator 1,rupture,Good,0.89,242,161
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.76,352,478
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.52,242,472
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.52,69,202
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.26,69,346
+2025-04-29 08:45:08,Operator 1,rupture,Good,0.93,243,160
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.74,359,477
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.54,254,469
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.31,70,205
+2025-04-29 08:45:08,Operator 1,rupture,Good,0.93,242,160
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.77,355,476
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.54,70,203
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.53,250,468
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.30,69,383
+2025-04-29 08:45:08,Operator 1,rupture,Good,0.87,245,161
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.71,359,478
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.56,254,471
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.28,70,201
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.74,239,162
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.61,305,475
+2025-04-29 08:45:08,Operator 1,wrinkle,Potentially Defective,0.58,391,476
+2025-04-29 08:45:08,Operator 1,rupture,Potentially Defective,0.28,277,77
+2025-04-29 08:45:09,Operator 1,rupture,Good,0.91,229,159
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.74,363,478
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.62,247,471
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.30,111,75
+2025-04-29 08:45:09,Operator 1,rupture,Good,0.87,234,164
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.66,375,477
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.53,255,470
+2025-04-29 08:45:09,Operator 1,wrinkle,Potentially Defective,0.33,384,477
+2025-04-29 08:45:09,Operator 1,rupture,Good,0.89,225,161
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.55,379,475
+2025-04-29 08:45:09,Operator 1,wrinkle,Potentially Defective,0.44,385,478
+2025-04-29 08:45:09,Operator 1,wrinkle,Good,0.83,637,474
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.55,62,151
+2025-04-29 08:45:09,Operator 1,wrinkle,Potentially Defective,0.58,139,272
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.56,474,467
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.30,59,91
+2025-04-29 08:45:09,Operator 1,wrinkle,Potentially Defective,0.59,140,209
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.55,388,476
+2025-04-29 08:45:09,Operator 1,rupture,Potentially Defective,0.34,59,91
+2025-04-29 08:45:10,Operator 1,wrinkle,Potentially Defective,0.53,140,227
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.45,44,91
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.40,547,466
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.57,397,477
+2025-04-29 08:45:10,Operator 1,wrinkle,Potentially Defective,0.51,139,256
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.38,565,475
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.33,55,91
+2025-04-29 08:45:10,Operator 1,wrinkle,Potentially Defective,0.55,142,211
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.54,422,478
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.36,54,91
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.60,403,479
+2025-04-29 08:45:10,Operator 1,wrinkle,Potentially Defective,0.39,140,207
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.48,413,479
+2025-04-29 08:45:10,Operator 1,wrinkle,Potentially Defective,0.41,140,203
+2025-04-29 08:45:10,Operator 1,rupture,Potentially Defective,0.26,46,90
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.47,412,462
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.32,140,233
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.27,47,91
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.54,314,479
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.36,269,249
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.33,44,91
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.27,215,236
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.56,321,479
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.39,139,202
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.32,46,90
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.52,404,479
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.45,140,203
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.26,48,90
+2025-04-29 08:45:11,Operator 1,wrinkle,Potentially Defective,0.52,140,209
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.46,411,459
+2025-04-29 08:45:11,Operator 1,rupture,Potentially Defective,0.46,47,90
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.59,300,479
+2025-04-29 08:45:12,Operator 1,wrinkle,Potentially Defective,0.56,139,209
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.36,418,466
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.33,61,91
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.52,400,479
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.43,46,90
+2025-04-29 08:45:12,Operator 1,wrinkle,Potentially Defective,0.41,141,195
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.55,445,452
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.43,45,91
+2025-04-29 08:45:12,Operator 1,wrinkle,Potentially Defective,0.40,140,211
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.38,321,476
+2025-04-29 08:45:12,Operator 1,rupture,Potentially Defective,0.67,441,391
+2025-04-29 08:45:12,Operator 1,wrinkle,Potentially Defective,0.42,140,215
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.60,340,395
+2025-04-29 08:45:13,Operator 1,wrinkle,Potentially Defective,0.58,140,202
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.40,109,267
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.31,177,342
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.30,315,341
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.26,484,395
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.70,338,378
+2025-04-29 08:45:13,Operator 1,wrinkle,Potentially Defective,0.67,139,272
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.64,518,390
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.58,143,343
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.30,105,250
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.26,238,378
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.69,530,382
+2025-04-29 08:45:13,Operator 1,wrinkle,Potentially Defective,0.64,139,243
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.63,149,343
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.44,317,377
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.66,452,391
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.63,150,342
+2025-04-29 08:45:13,Operator 1,wrinkle,Potentially Defective,0.52,139,225
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.42,233,375
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.36,603,409
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.65,164,341
+2025-04-29 08:45:13,Operator 1,wrinkle,Potentially Defective,0.64,138,199
+2025-04-29 08:45:13,Operator 1,rupture,Potentially Defective,0.52,446,372
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.69,162,341
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.58,491,382
+2025-04-29 08:45:14,Operator 1,wrinkle,Potentially Defective,0.56,140,195
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.27,298,370
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.65,442,377
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.60,167,339
+2025-04-29 08:45:14,Operator 1,wrinkle,Potentially Defective,0.58,139,205
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.68,457,381
+2025-04-29 08:45:14,Operator 1,wrinkle,Potentially Defective,0.61,140,199
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.58,165,341
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.35,322,379
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.72,491,393
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.61,144,343
+2025-04-29 08:45:14,Operator 1,wrinkle,Potentially Defective,0.57,140,205
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.78,343,381
+2025-04-29 08:45:14,Operator 1,rupture,Potentially Defective,0.65,132,343
+2025-04-29 08:45:14,Operator 1,wrinkle,Potentially Defective,0.62,140,207
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.77,333,384
+2025-04-29 08:45:15,Operator 1,wrinkle,Potentially Defective,0.70,140,213
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.63,130,342
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.43,481,414
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.27,107,250
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.70,397,382
+2025-04-29 08:45:15,Operator 1,wrinkle,Potentially Defective,0.63,140,209
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.62,127,342
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.54,203,384
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.39,106,243
+2025-04-29 08:45:15,Operator 1,rupture,Good,0.82,317,380
+2025-04-29 08:45:15,Operator 1,rupture,Good,0.81,454,422
+2025-04-29 08:45:15,Operator 1,wrinkle,Potentially Defective,0.70,140,214
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.69,120,343
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.31,109,257
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.78,351,372
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.67,117,343
+2025-04-29 08:45:15,Operator 1,wrinkle,Potentially Defective,0.64,139,213
+2025-04-29 08:45:15,Operator 1,rupture,Potentially Defective,0.28,476,407
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.73,461,388
+2025-04-29 08:45:16,Operator 1,wrinkle,Potentially Defective,0.67,140,214
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.67,118,343
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.28,323,372
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.70,445,397
+2025-04-29 08:45:16,Operator 1,wrinkle,Potentially Defective,0.61,140,214
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.46,106,344
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.26,220,373
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.71,354,377
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.69,409,430
+2025-04-29 08:45:16,Operator 1,wrinkle,Potentially Defective,0.67,139,215
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.47,106,366
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.37,239,376
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.28,108,233
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.77,416,462
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.69,391,398
+2025-04-29 08:45:16,Operator 1,wrinkle,Potentially Defective,0.56,139,218
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.53,111,229
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.44,88,245
+2025-04-29 08:45:16,Operator 1,rupture,Good,0.81,356,439
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.70,411,456
+2025-04-29 08:45:16,Operator 1,scuff,Potentially Defective,0.64,86,241
+2025-04-29 08:45:16,Operator 1,wrinkle,Potentially Defective,0.62,138,218
+2025-04-29 08:45:16,Operator 1,rupture,Potentially Defective,0.44,113,231
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.76,339,431
+2025-04-29 08:45:17,Operator 1,scuff,Potentially Defective,0.62,87,242
+2025-04-29 08:45:17,Operator 1,wrinkle,Potentially Defective,0.60,138,217
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.43,113,228
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.26,89,240
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.79,352,439
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.69,435,461
+2025-04-29 08:45:17,Operator 1,wrinkle,Potentially Defective,0.59,138,220
+2025-04-29 08:45:17,Operator 1,scuff,Potentially Defective,0.48,87,241
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.35,90,241
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.25,114,227
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.70,383,466
+2025-04-29 08:45:17,Operator 1,wrinkle,Potentially Defective,0.55,138,219
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.27,108,208
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.77,384,466
+2025-04-29 08:45:17,Operator 1,wrinkle,Potentially Defective,0.57,137,221
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.28,108,227
+2025-04-29 08:45:17,Operator 1,rupture,Good,0.86,280,471
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.76,317,456
+2025-04-29 08:45:17,Operator 1,wrinkle,Potentially Defective,0.60,138,221
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.37,87,243
+2025-04-29 08:45:17,Operator 1,rupture,Potentially Defective,0.28,109,222
+2025-04-29 08:45:18,Operator 1,rupture,Good,0.84,339,476
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.76,374,449
+2025-04-29 08:45:18,Operator 1,wrinkle,Potentially Defective,0.61,137,220
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.41,107,226
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.37,86,243
+2025-04-29 08:45:18,Operator 1,rupture,Good,0.85,311,459
+2025-04-29 08:45:18,Operator 1,rupture,Good,0.80,223,398
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.76,301,426
+2025-04-29 08:45:18,Operator 1,wrinkle,Potentially Defective,0.44,137,216
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.33,87,243
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.25,106,225
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.79,340,437
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.78,213,408
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.62,290,463
+2025-04-29 08:45:18,Operator 1,wrinkle,Potentially Defective,0.49,136,216
+2025-04-29 08:45:18,Operator 1,scuff,Potentially Defective,0.38,87,241
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.34,87,241
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.26,108,226
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.76,410,435
+2025-04-29 08:45:18,Operator 1,wrinkle,Potentially Defective,0.56,137,219
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.55,282,388
+2025-04-29 08:45:18,Operator 1,scuff,Potentially Defective,0.37,87,242
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.37,86,242
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.70,411,407
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.58,334,378
+2025-04-29 08:45:18,Operator 1,scuff,Potentially Defective,0.40,87,242
+2025-04-29 08:45:18,Operator 1,wrinkle,Potentially Defective,0.37,136,217
+2025-04-29 08:45:18,Operator 1,rupture,Potentially Defective,0.34,87,242
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.71,414,451
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.62,310,374
+2025-04-29 08:45:19,Operator 1,wrinkle,Potentially Defective,0.52,137,216
+2025-04-29 08:45:19,Operator 1,scuff,Potentially Defective,0.47,86,241
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.34,86,242
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.70,319,369
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.69,439,388
+2025-04-29 08:45:19,Operator 1,wrinkle,Potentially Defective,0.58,137,216
+2025-04-29 08:45:19,Operator 1,scuff,Potentially Defective,0.50,86,242
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.33,86,241
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.65,329,371
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.62,455,397
+2025-04-29 08:45:19,Operator 1,wrinkle,Potentially Defective,0.59,137,220
+2025-04-29 08:45:19,Operator 1,scuff,Potentially Defective,0.48,86,240
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.36,112,223
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.34,89,240
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.75,325,382
+2025-04-29 08:45:19,Operator 1,wrinkle,Potentially Defective,0.70,137,220
+2025-04-29 08:45:19,Operator 1,scuff,Potentially Defective,0.65,86,240
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.30,467,430
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.27,109,226
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.26,89,239
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.76,320,371
+2025-04-29 08:45:19,Operator 1,scuff,Potentially Defective,0.69,86,241
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.68,434,369
+2025-04-29 08:45:19,Operator 1,wrinkle,Potentially Defective,0.67,138,222
+2025-04-29 08:45:19,Operator 1,rupture,Potentially Defective,0.26,109,236
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.78,310,372
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.74,449,378
+2025-04-29 08:45:20,Operator 1,scuff,Potentially Defective,0.65,87,241
+2025-04-29 08:45:20,Operator 1,wrinkle,Potentially Defective,0.63,138,220
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.27,90,240
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.72,310,375
+2025-04-29 08:45:20,Operator 1,scuff,Potentially Defective,0.61,86,242
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.54,465,383
+2025-04-29 08:45:20,Operator 1,wrinkle,Potentially Defective,0.50,138,218
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.78,301,400
+2025-04-29 08:45:20,Operator 1,wrinkle,Potentially Defective,0.68,139,222
+2025-04-29 08:45:20,Operator 1,scuff,Potentially Defective,0.59,86,242
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.53,434,432
+2025-04-29 08:45:20,Operator 1,rupture,Potentially Defective,0.77,298,452
+2025-04-29 08:45:20,Operator 1,scuff,Potentially Defective,0.66,85,240
+2025-04-29 08:45:20,Operator 1,wrinkle,Potentially Defective,0.66,138,220
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.80,299,451
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.68,86,240
+2025-04-29 08:45:21,Operator 1,wrinkle,Potentially Defective,0.64,138,220
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.25,80,34
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.77,297,452
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.65,86,239
+2025-04-29 08:45:21,Operator 1,wrinkle,Potentially Defective,0.62,138,220
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.45,449,457
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.26,74,32
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.78,360,452
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.69,85,240
+2025-04-29 08:45:21,Operator 1,wrinkle,Potentially Defective,0.61,138,220
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.77,433,418
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.70,335,411
+2025-04-29 08:45:21,Operator 1,scuff,Potentially Defective,0.68,86,240
+2025-04-29 08:45:21,Operator 1,wrinkle,Potentially Defective,0.66,138,216
+2025-04-29 08:45:21,Operator 1,rupture,Potentially Defective,0.32,109,230
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.71,86,242
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.67,305,376
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.65,463,404
+2025-04-29 08:45:22,Operator 1,wrinkle,Potentially Defective,0.62,138,220
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.38,74,32
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.70,86,241
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.67,452,396
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.66,288,365
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.45,77,32
+2025-04-29 08:45:22,Operator 1,wrinkle,Potentially Defective,0.44,137,217
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.29,107,222
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.26,89,240
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.72,453,397
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.68,315,367
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.68,86,241
+2025-04-29 08:45:22,Operator 1,wrinkle,Potentially Defective,0.63,138,218
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.41,77,32
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.30,110,224
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.26,89,240
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.73,458,383
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.69,86,242
+2025-04-29 08:45:22,Operator 1,wrinkle,Potentially Defective,0.60,136,216
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.30,107,224
+2025-04-29 08:45:22,Operator 1,scuff,Potentially Defective,0.69,86,241
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.65,473,380
+2025-04-29 08:45:22,Operator 1,wrinkle,Potentially Defective,0.55,137,215
+2025-04-29 08:45:22,Operator 1,rupture,Potentially Defective,0.47,107,223
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.70,463,381
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.65,85,241
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.63,137,218
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.56,333,371
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.75,454,399
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.70,86,240
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.52,136,218
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.44,293,373
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.26,79,32
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.78,456,391
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.68,86,240
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.46,240,220
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.46,137,219
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.28,325,372
+2025-04-29 08:45:23,Operator 1,rupture,Good,0.81,439,400
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.60,86,240
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.44,137,217
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.36,229,219
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.32,109,224
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.25,89,240
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.74,447,387
+2025-04-29 08:45:23,Operator 1,scuff,Potentially Defective,0.63,87,242
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.50,137,216
+2025-04-29 08:45:23,Operator 1,wrinkle,Potentially Defective,0.35,215,220
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.26,89,241
+2025-04-29 08:45:23,Operator 1,rupture,Potentially Defective,0.26,112,222
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.70,467,400
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.64,317,372
+2025-04-29 08:45:24,Operator 1,scuff,Potentially Defective,0.59,87,241
+2025-04-29 08:45:24,Operator 1,wrinkle,Potentially Defective,0.42,138,210
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.29,89,240
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.77,434,380
+2025-04-29 08:45:24,Operator 1,scuff,Potentially Defective,0.68,87,240
+2025-04-29 08:45:24,Operator 1,wrinkle,Potentially Defective,0.61,137,219
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.25,89,239
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.73,419,385
+2025-04-29 08:45:24,Operator 1,scuff,Potentially Defective,0.50,86,241
+2025-04-29 08:45:24,Operator 1,wrinkle,Potentially Defective,0.46,137,217
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.28,88,242
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.75,417,381
+2025-04-29 08:45:24,Operator 1,scuff,Potentially Defective,0.55,87,241
+2025-04-29 08:45:24,Operator 1,wrinkle,Potentially Defective,0.52,137,216
+2025-04-29 08:45:24,Operator 1,rupture,Potentially Defective,0.77,417,381
+2025-04-29 08:45:24,Operator 1,wrinkle,Potentially Defective,0.53,137,221
+2025-04-29 08:45:24,Operator 1,scuff,Potentially Defective,0.46,88,240
+2025-04-29 08:45:38,Operator 1,rupture,Potentially Defective,0.75,324,479
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.40,137,211
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.30,218,223
+2025-04-29 08:45:38,Operator 1,rupture,Potentially Defective,0.74,328,479
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.42,136,210
+2025-04-29 08:45:38,Operator 1,wrinkle,Good,0.82,290,447
+2025-04-29 08:45:38,Operator 1,rupture,Potentially Defective,0.75,332,479
+2025-04-29 08:45:38,Operator 1,rupture,Good,0.81,316,480
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.38,115,446
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.36,138,429
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.31,138,210
+2025-04-29 08:45:38,Operator 1,rupture,Potentially Defective,0.73,371,462
+2025-04-29 08:45:38,Operator 1,wrinkle,Potentially Defective,0.37,271,441
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.73,374,460
+2025-04-29 08:45:39,Operator 1,wrinkle,Potentially Defective,0.62,137,221
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.72,383,463
+2025-04-29 08:45:39,Operator 1,wrinkle,Potentially Defective,0.55,137,220
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.36,111,222
+2025-04-29 08:45:39,Operator 1,wrinkle,Potentially Defective,0.68,138,221
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.65,426,475
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.48,106,226
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.65,442,460
+2025-04-29 08:45:39,Operator 1,wrinkle,Potentially Defective,0.64,138,221
+2025-04-29 08:45:39,Operator 1,rupture,Potentially Defective,0.66,484,461
+2025-04-29 08:45:39,Operator 1,wrinkle,Potentially Defective,0.37,271,441
+2025-04-29 08:45:40,Operator 1,rupture,Good,0.81,378,470
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.33,51,196
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.27,147,84
+2025-04-29 08:45:40,Operator 1,rupture,Good,0.81,376,470
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.45,223,437
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.40,221,182
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.28,161,86
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.73,374,469
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.58,172,96
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.33,270,215
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.73,374,469
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.66,111,105
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.63,50,99
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.63,379,469
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.31,528,465
+2025-04-29 08:45:40,Operator 1,rupture,Potentially Defective,0.29,105,226
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.64,389,469
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.26,108,225
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.65,387,473
+2025-04-29 08:45:41,Operator 1,wrinkle,Potentially Defective,0.41,137,225
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.41,107,228
+2025-04-29 08:45:41,Operator 1,wrinkle,Potentially Defective,0.70,138,220
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.58,481,464
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.34,107,227
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.56,456,468
+2025-04-29 08:45:41,Operator 1,wrinkle,Potentially Defective,0.52,138,457
+2025-04-29 08:45:41,Operator 1,rupture,Potentially Defective,0.34,108,225
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.58,440,476
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.50,272,211
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.46,141,102
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.91,180,97
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.75,386,471
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.59,259,87
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.88,179,90
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.81,336,479
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.60,288,100
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.26,227,349
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.94,181,100
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.82,325,478
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.54,290,103
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.36,57,288
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.30,48,200
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.90,184,101
+2025-04-29 08:45:42,Operator 1,rupture,Good,0.83,320,479
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.59,297,99
+2025-04-29 08:45:42,Operator 1,rupture,Potentially Defective,0.43,75,378
+2025-04-29 08:45:42,Operator 1,wrinkle,Potentially Defective,0.26,64,190
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.84,188,97
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.83,320,479
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.51,297,115
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.41,75,397
+2025-04-29 08:45:43,Operator 1,wrinkle,Potentially Defective,0.32,64,190
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.89,188,105
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.84,321,479
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.52,75,337
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.47,298,114
+2025-04-29 08:45:43,Operator 1,wrinkle,Potentially Defective,0.28,64,190
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.87,187,98
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.83,319,479
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.49,75,359
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.45,284,121
+2025-04-29 08:45:43,Operator 1,wrinkle,Potentially Defective,0.30,64,189
+2025-04-29 08:45:43,Operator 1,rupture,Good,0.82,320,479
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.77,190,99
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.48,290,116
+2025-04-29 08:45:43,Operator 1,wrinkle,Potentially Defective,0.37,64,189
+2025-04-29 08:45:43,Operator 1,rupture,Potentially Defective,0.35,75,415
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.86,192,103
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.81,321,479
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.46,76,324
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.44,280,111
+2025-04-29 08:45:44,Operator 1,wrinkle,Potentially Defective,0.32,63,190
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.86,192,101
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.82,320,479
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.46,75,388
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.42,276,111
+2025-04-29 08:45:44,Operator 1,wrinkle,Potentially Defective,0.41,63,189
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.83,320,479
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.70,192,101
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.51,78,407
+2025-04-29 08:45:44,Operator 1,wrinkle,Potentially Defective,0.33,63,190
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.29,280,130
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.82,319,479
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.70,190,98
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.64,85,421
+2025-04-29 08:45:44,Operator 1,wrinkle,Potentially Defective,0.43,63,189
+2025-04-29 08:45:44,Operator 1,rupture,Good,0.81,319,479
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.76,190,102
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.64,80,422
+2025-04-29 08:45:44,Operator 1,wrinkle,Potentially Defective,0.45,64,189
+2025-04-29 08:45:44,Operator 1,rupture,Potentially Defective,0.40,297,148
+2025-04-29 08:45:45,Operator 1,rupture,Good,0.80,320,479
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.54,189,102
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.39,63,190
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.36,84,438
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.65,544,473
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.44,391,477
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.32,133,215
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.69,421,477
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.46,137,206
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.29,193,217
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.71,382,465
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.50,136,217
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.30,228,215
+2025-04-29 08:45:45,Operator 1,rupture,Potentially Defective,0.62,375,387
+2025-04-29 08:45:45,Operator 1,wrinkle,Potentially Defective,0.56,137,218
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.64,418,367
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.52,137,214
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.36,88,242
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.61,136,218
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.54,438,361
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.46,87,238
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.26,89,134
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.65,137,217
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.60,367,361
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.48,87,237
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.63,138,217
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.48,420,364
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.44,87,237
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.42,374,362
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.28,107,225
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.26,87,237
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.66,139,219
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.59,455,372
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.46,87,238
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.31,89,135
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.28,453,368
+2025-04-29 08:45:46,Operator 1,wrinkle,Potentially Defective,0.71,139,219
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.62,448,377
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.61,305,368
+2025-04-29 08:45:46,Operator 1,scuff,Potentially Defective,0.47,87,238
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.30,464,376
+2025-04-29 08:45:46,Operator 1,rupture,Potentially Defective,0.29,109,226
+2025-04-29 08:45:47,Operator 1,wrinkle,Potentially Defective,0.72,138,220
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.59,494,382
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.45,87,237
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.37,112,224
+2025-04-29 08:45:47,Operator 1,wrinkle,Potentially Defective,0.65,139,222
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.49,484,389
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.48,87,236
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.46,530,384
+2025-04-29 08:45:47,Operator 1,wrinkle,Potentially Defective,0.66,138,220
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.54,495,374
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.45,87,237
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.25,67,33
+2025-04-29 08:45:47,Operator 1,wrinkle,Potentially Defective,0.66,138,220
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.54,484,387
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.46,87,238
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.34,88,135
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.25,86,239
+2025-04-29 08:45:47,Operator 1,wrinkle,Potentially Defective,0.66,139,220
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.51,382,388
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.39,87,239
+2025-04-29 08:45:47,Operator 1,scuff,Potentially Defective,0.29,67,33
+2025-04-29 08:45:47,Operator 1,rupture,Potentially Defective,0.28,87,240
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.63,315,372
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.62,462,381
+2025-04-29 08:45:48,Operator 1,wrinkle,Potentially Defective,0.57,138,220
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.39,90,239
+2025-04-29 08:45:48,Operator 1,scuff,Potentially Defective,0.32,67,33
+2025-04-29 08:45:48,Operator 1,scuff,Potentially Defective,0.28,88,239
+2025-04-29 08:45:48,Operator 1,wrinkle,Potentially Defective,0.67,139,223
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.64,469,371
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.45,115,237
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.37,91,240
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.60,451,368
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.50,108,220
+2025-04-29 08:45:48,Operator 1,wrinkle,Potentially Defective,0.43,139,219
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.37,87,240
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.32,308,361
+2025-04-29 08:45:48,Operator 1,scuff,Potentially Defective,0.28,73,33
+2025-04-29 08:45:48,Operator 1,wrinkle,Potentially Defective,0.70,138,219
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.56,511,370
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.38,353,362
+2025-04-29 08:45:48,Operator 1,rupture,Potentially Defective,0.38,88,240
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.73,419,378
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.60,138,217
+2025-04-29 08:45:49,Operator 1,scuff,Potentially Defective,0.35,87,241
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.32,87,242
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.68,422,380
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.57,138,218
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.32,107,226
+2025-04-29 08:45:49,Operator 1,scuff,Potentially Defective,0.27,89,241
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.74,417,384
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.55,138,219
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.36,105,225
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.76,412,407
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.67,131,170
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.63,138,220
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.65,416,462
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.43,115,444
+2025-04-29 08:45:49,Operator 1,rupture,Potentially Defective,0.38,150,444
+2025-04-29 08:45:49,Operator 1,wrinkle,Potentially Defective,0.30,143,444
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.59,466,456
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.43,172,215
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.42,137,80
+2025-04-29 08:45:50,Operator 1,rupture,Good,0.93,161,99
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.65,191,70
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.58,426,461
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.43,275,169
+2025-04-29 08:45:50,Operator 1,rupture,Good,0.89,160,111
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.64,420,461
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.55,198,57
+2025-04-29 08:45:50,Operator 1,wrinkle,Potentially Defective,0.31,423,477
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.59,127,111
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.49,550,460
+2025-04-29 08:45:50,Operator 1,wrinkle,Potentially Defective,0.38,574,474
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.37,167,52
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.68,119,119
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.49,462,464
+2025-04-29 08:45:50,Operator 1,wrinkle,Potentially Defective,0.33,539,477
+2025-04-29 08:45:50,Operator 1,rupture,Potentially Defective,0.33,157,67
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.75,118,119
+2025-04-29 08:45:51,Operator 1,wrinkle,Potentially Defective,0.50,584,475
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.49,133,57
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.43,458,467
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.26,78,57
+2025-04-29 08:45:51,Operator 1,wrinkle,Potentially Defective,0.69,616,477
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.55,101,113
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.34,592,467
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.32,82,54
+2025-04-29 08:45:51,Operator 1,wrinkle,Potentially Defective,0.62,616,465
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.55,73,125
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.35,603,464
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.68,145,102
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.55,524,461
+2025-04-29 08:45:51,Operator 1,wrinkle,Potentially Defective,0.37,573,471
+2025-04-29 08:45:51,Operator 1,rupture,Good,0.85,183,126
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.70,466,454
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.63,137,50
+2025-04-29 08:45:51,Operator 1,rupture,Potentially Defective,0.48,220,49
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.90,211,124
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.75,384,459
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.44,239,55
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.38,172,56
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.91,220,119
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.66,396,463
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.46,171,52
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.30,259,55
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.90,218,121
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.61,371,467
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.50,172,51
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.39,259,51
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.92,218,119
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.59,366,468
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.50,177,53
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.47,244,50
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.93,220,117
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.59,359,468
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.46,174,56
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.27,78,68
+2025-04-29 08:45:52,Operator 1,rupture,Potentially Defective,0.25,221,64
+2025-04-29 08:45:52,Operator 1,rupture,Good,0.94,220,118
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.60,174,54
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.57,379,463
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.39,250,56
+2025-04-29 08:45:53,Operator 1,rupture,Good,0.93,217,118
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.63,368,463
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.55,183,52
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.38,250,56
+2025-04-29 08:45:53,Operator 1,wrinkle,Potentially Defective,0.28,355,478
+2025-04-29 08:45:53,Operator 1,rupture,Good,0.82,216,116
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.66,356,469
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.47,175,54
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.28,78,73
+2025-04-29 08:45:53,Operator 1,rupture,Good,0.81,219,118
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.68,373,465
+2025-04-29 08:45:53,Operator 1,rupture,Good,0.91,217,120
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.60,391,479
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.48,82,75
+2025-04-29 08:45:53,Operator 1,rupture,Good,0.91,220,120
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.56,405,479
+2025-04-29 08:45:53,Operator 1,rupture,Potentially Defective,0.50,81,76
+2025-04-29 08:45:54,Operator 1,rupture,Good,0.90,221,119
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.60,382,478
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.35,163,54
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.27,81,71
+2025-04-29 08:45:54,Operator 1,rupture,Good,0.90,221,118
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.62,384,469
+2025-04-29 08:45:54,Operator 1,rupture,Good,0.94,228,120
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.64,367,471
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.31,251,79
+2025-04-29 08:45:54,Operator 1,rupture,Good,0.93,228,119
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.55,388,471
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.40,253,61
+2025-04-29 08:45:54,Operator 1,wrinkle,Potentially Defective,0.32,455,477
+2025-04-29 08:45:54,Operator 1,rupture,Good,0.88,228,126
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.68,356,472
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.27,255,46
+2025-04-29 08:45:54,Operator 1,rupture,Potentially Defective,0.26,163,47
+2025-04-29 08:45:55,Operator 1,rupture,Good,0.81,227,124
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.61,367,473
+2025-04-29 08:45:55,Operator 1,rupture,Good,0.91,228,124
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.63,383,470
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.44,165,49
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.39,246,50
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.32,309,113
+2025-04-29 08:45:55,Operator 1,rupture,Good,0.89,224,119
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.65,360,468
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.45,251,56
+2025-04-29 08:45:55,Operator 1,rupture,Good,0.92,224,120
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.68,363,471
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.31,247,72
+2025-04-29 08:45:55,Operator 1,rupture,Good,0.90,223,119
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.62,393,467
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.38,248,54
+2025-04-29 08:45:55,Operator 1,rupture,Potentially Defective,0.27,172,50
+2025-04-29 08:45:56,Operator 1,rupture,Good,0.88,223,121
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.63,392,468
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.45,246,52
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.30,297,111
+2025-04-29 08:45:56,Operator 1,rupture,Good,0.90,224,121
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.62,391,468
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.36,238,49
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.26,160,47
+2025-04-29 08:45:56,Operator 1,rupture,Good,0.88,225,121
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.61,393,469
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.31,241,49
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.29,161,47
+2025-04-29 08:45:56,Operator 1,rupture,Good,0.92,225,117
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.58,367,469
+2025-04-29 08:45:56,Operator 1,rupture,Potentially Defective,0.37,247,65
+2025-04-29 08:45:57,Operator 1,rupture,Good,0.90,220,120
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.60,379,469
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.35,251,66
+2025-04-29 08:45:57,Operator 1,rupture,Good,0.84,221,117
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.55,373,470
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.25,259,80
+2025-04-29 08:45:57,Operator 1,rupture,Good,0.91,225,117
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.51,388,469
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.33,256,73
+2025-04-29 08:45:57,Operator 1,wrinkle,Potentially Defective,0.29,415,476
+2025-04-29 08:45:57,Operator 1,rupture,Good,0.89,223,119
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.46,398,470
+2025-04-29 08:45:57,Operator 1,wrinkle,Potentially Defective,0.39,471,477
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.26,253,77
+2025-04-29 08:45:57,Operator 1,rupture,Good,0.88,223,119
+2025-04-29 08:45:57,Operator 1,rupture,Potentially Defective,0.49,400,469
+2025-04-29 08:45:57,Operator 1,wrinkle,Potentially Defective,0.36,482,478
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.90,226,117
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.54,397,470
+2025-04-29 08:45:58,Operator 1,wrinkle,Potentially Defective,0.30,435,477
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.29,254,76
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.91,225,118
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.56,363,471
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.41,253,73
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.86,224,118
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.59,395,470
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.89,222,119
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.52,401,467
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.30,195,220
+2025-04-29 08:45:58,Operator 1,wrinkle,Potentially Defective,0.30,414,477
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.88,223,121
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.56,406,468
+2025-04-29 08:45:58,Operator 1,wrinkle,Potentially Defective,0.28,423,480
+2025-04-29 08:45:58,Operator 1,rupture,Good,0.88,224,120
+2025-04-29 08:45:58,Operator 1,rupture,Potentially Defective,0.52,413,472
+2025-04-29 08:45:59,Operator 1,rupture,Good,0.91,224,119
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.53,428,469
+2025-04-29 08:45:59,Operator 1,rupture,Good,0.89,226,118
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.54,408,466
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.25,210,156
+2025-04-29 08:45:59,Operator 1,rupture,Good,0.89,226,123
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.61,362,470
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.29,256,77
+2025-04-29 08:45:59,Operator 1,rupture,Good,0.85,221,120
+2025-04-29 08:45:59,Operator 1,rupture,Potentially Defective,0.65,373,468
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.70,479,477
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.57,139,210
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.47,475,236
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.64,139,210
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.56,384,470
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.39,103,236
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.38,70,77
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.60,140,205
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.48,406,464
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.46,104,235
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.33,70,77
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.62,140,208
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.58,472,409
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.40,70,77
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.34,105,232
+2025-04-29 08:46:00,Operator 1,wrinkle,Potentially Defective,0.63,140,207
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.57,462,376
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.50,126,348
+2025-04-29 08:46:00,Operator 1,rupture,Potentially Defective,0.40,104,240
+2025-04-29 08:46:01,Operator 1,wrinkle,Potentially Defective,0.64,140,207
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.61,132,344
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.53,489,374
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.34,70,77
+2025-04-29 08:46:01,Operator 1,wrinkle,Potentially Defective,0.73,141,208
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.70,477,353
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.60,128,343
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.38,68,77
+2025-04-29 08:46:01,Operator 1,wrinkle,Potentially Defective,0.66,140,211
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.66,482,354
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.63,123,345
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.27,69,77
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.67,480,354
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.65,121,344
+2025-04-29 08:46:01,Operator 1,wrinkle,Potentially Defective,0.62,140,206
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.35,69,77
+2025-04-29 08:46:01,Operator 1,wrinkle,Potentially Defective,0.69,141,212
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.67,122,345
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.64,475,351
+2025-04-29 08:46:01,Operator 1,rupture,Potentially Defective,0.34,70,77
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.66,120,347
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.66,478,350
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.64,139,208
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.35,68,77
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.68,139,210
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.67,122,346
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.61,481,351
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.45,69,77
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.70,140,210
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.66,121,345
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.66,472,351
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.38,70,77
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.73,471,350
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.64,120,345
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.64,140,209
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.41,70,77
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.68,473,352
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.64,140,212
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.63,121,347
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.37,70,77
+2025-04-29 08:46:02,Operator 1,wrinkle,Potentially Defective,0.72,140,215
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.71,470,368
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.64,119,345
+2025-04-29 08:46:02,Operator 1,rupture,Potentially Defective,0.37,70,77
+2025-04-29 08:46:03,Operator 1,rupture,Potentially Defective,0.73,470,367
+2025-04-29 08:46:03,Operator 1,wrinkle,Potentially Defective,0.71,140,216
+2025-04-29 08:46:03,Operator 1,rupture,Potentially Defective,0.67,118,346
+2025-04-29 09:37:27,Operator 1,rupture,Potentially Defective,0.54,534,473
+2025-04-29 09:37:27,Operator 1,rupture,Potentially Defective,0.50,560,475
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.76,227,458
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.70,262,478
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.39,80,71
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.77,226,454
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.75,263,476
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.76,227,439
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.74,261,477
+2025-04-29 09:37:28,Operator 1,rupture,Potentially Defective,0.44,134,225
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.74,227,462
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.63,258,477
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.37,136,234
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.30,136,345
+2025-04-29 09:37:29,Operator 1,rupture,Good,0.80,227,428
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.71,137,230
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.56,255,478
+2025-04-29 09:37:29,Operator 1,wrinkle,Potentially Defective,0.29,260,475
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.78,227,457
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.77,246,474
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.63,136,229
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.27,221,73
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.75,228,453
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.73,245,476
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.73,137,235
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.76,227,449
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.73,250,479
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.64,135,227
+2025-04-29 09:37:29,Operator 1,rupture,Potentially Defective,0.42,80,70
+2025-04-29 09:37:30,Operator 1,rupture,Good,0.83,257,479
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.60,229,477
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.35,135,234
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.53,231,449
+2025-04-29 09:37:30,Operator 1,wrinkle,Potentially Defective,0.44,273,474
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.37,246,475
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.31,340,416
+2025-04-29 09:37:30,Operator 1,wrinkle,Potentially Defective,0.63,272,479
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.47,232,472
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.32,281,476
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.31,343,429
+2025-04-29 09:37:30,Operator 1,wrinkle,Potentially Defective,0.58,267,480
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.58,227,447
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.32,286,476
+2025-04-29 09:37:30,Operator 1,rupture,Potentially Defective,0.26,62,67
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.50,229,478
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.44,273,474
+2025-04-29 09:37:31,Operator 1,wrinkle,Potentially Defective,0.37,279,480
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.53,230,475
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.43,276,475
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.28,65,67
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.56,289,474
+2025-04-29 09:37:31,Operator 1,rupture,Potentially Defective,0.54,235,480
+2025-04-29 09:37:31,Operator 1,wrinkle,Potentially Defective,0.30,275,477
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.67,228,465
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.46,298,476
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.41,131,67
+2025-04-29 09:37:32,Operator 1,wrinkle,Potentially Defective,0.39,278,480
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.25,58,67
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.73,229,459
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.53,306,476
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.29,131,67
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.75,232,442
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.56,306,477
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.36,132,66
+2025-04-29 09:37:32,Operator 1,wrinkle,Potentially Defective,0.30,284,480
+2025-04-29 09:37:32,Operator 1,rupture,Good,0.81,229,382
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.52,313,477
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.47,127,68
+2025-04-29 09:37:32,Operator 1,wrinkle,Potentially Defective,0.34,285,480
+2025-04-29 09:37:32,Operator 1,rupture,Potentially Defective,0.27,59,66
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.78,229,397
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.51,311,478
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.30,286,480
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.29,129,65
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.28,65,71
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.78,230,413
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.59,307,478
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.35,285,480
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.27,130,67
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.25,69,73
+2025-04-29 09:37:33,Operator 1,rupture,Good,0.83,229,378
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.58,306,477
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.54,128,69
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.39,67,68
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.29,286,480
+2025-04-29 09:37:33,Operator 1,rupture,Good,0.83,231,373
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.54,127,69
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.44,300,472
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.34,269,480
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.34,63,66
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.80,229,383
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.48,132,67
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.46,299,474
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.28,269,480
+2025-04-29 09:37:33,Operator 1,rupture,Good,0.82,227,395
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.48,288,466
+2025-04-29 09:37:33,Operator 1,rupture,Potentially Defective,0.46,132,67
+2025-04-29 09:37:33,Operator 1,wrinkle,Potentially Defective,0.26,271,473
+2025-04-29 09:37:34,Operator 1,rupture,Good,0.81,231,374
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.56,298,477
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.41,131,68
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.34,57,67
+2025-04-29 09:37:34,Operator 1,rupture,Good,0.81,229,375
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.59,300,478
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.53,126,71
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.26,58,66
+2025-04-29 09:37:34,Operator 1,rupture,Good,0.83,229,369
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.58,299,477
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.44,127,71
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.30,58,66
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.80,229,370
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.63,286,480
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.40,132,67
+2025-04-29 09:37:34,Operator 1,rupture,Potentially Defective,0.31,57,65
+2025-04-29 09:37:35,Operator 1,rupture,Good,0.80,230,375
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.61,301,476
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.38,148,66
+2025-04-29 09:37:35,Operator 1,rupture,Good,0.84,230,374
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.55,286,480
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.37,72,67
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.31,131,68
+2025-04-29 09:37:35,Operator 1,rupture,Good,0.87,230,400
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.58,299,476
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.32,131,76
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.28,132,123
+2025-04-29 09:37:35,Operator 1,rupture,Good,0.85,230,379
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.56,301,475
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.45,130,142
+2025-04-29 09:37:35,Operator 1,rupture,Good,0.85,230,379
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.60,298,476
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.44,148,67
+2025-04-29 09:37:35,Operator 1,rupture,Potentially Defective,0.35,81,66
+2025-04-29 09:37:36,Operator 1,rupture,Good,0.83,229,405
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.60,300,476
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.36,75,66
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.31,150,68
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.51,306,475
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.39,380,480
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.49,291,480
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.41,380,478
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.64,248,456
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.37,468,480
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.32,550,478
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.27,410,478
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.45,301,480
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.38,384,479
+2025-04-29 09:37:36,Operator 1,rupture,Potentially Defective,0.33,456,480
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.45,380,480
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.41,308,477
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.44,279,478
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.39,388,479
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.77,226,435
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.36,303,478
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.44,292,480
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.34,249,455
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.32,524,479
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.29,389,480
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.72,229,452
+2025-04-29 09:37:37,Operator 1,rupture,Potentially Defective,0.49,296,480
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.74,229,454
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.63,291,479
+2025-04-29 09:37:38,Operator 1,rupture,Good,0.82,244,450
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.57,304,480
+2025-04-29 09:37:38,Operator 1,rupture,Good,0.83,241,441
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.63,333,479
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.80,242,414
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.65,288,480
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.80,239,392
+2025-04-29 09:37:38,Operator 1,rupture,Potentially Defective,0.61,338,478
+2025-04-29 09:37:39,Operator 1,rupture,Good,0.81,231,382
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.74,401,476
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.60,433,479
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.52,228,463
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.48,589,476
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.65,272,479
+2025-04-29 09:37:39,Operator 1,rupture,Potentially Defective,0.64,381,478
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.75,269,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.56,375,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.71,270,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.50,372,468
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.69,269,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.46,374,480
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.70,268,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.47,375,436
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.63,268,479
+2025-04-29 09:37:40,Operator 1,rupture,Potentially Defective,0.52,374,463
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.65,266,479
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.58,377,394
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.69,266,479
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.62,377,387
+2025-04-29 09:37:41,Operator 1,rupture,Good,0.85,231,401
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.71,265,479
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.37,134,266
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.31,132,67
+2025-04-29 09:37:41,Operator 1,rupture,Good,0.86,233,375
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.73,264,479
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.34,135,278
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.26,69,70
+2025-04-29 09:37:41,Operator 1,rupture,Good,0.84,231,372
+2025-04-29 09:37:41,Operator 1,rupture,Potentially Defective,0.71,265,479
+2025-04-29 09:37:42,Operator 1,rupture,Good,0.83,235,384
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.71,264,479
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.27,140,121
+2025-04-29 09:37:42,Operator 1,rupture,Good,0.85,231,371
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.67,265,479
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.33,135,109
+2025-04-29 09:37:42,Operator 1,rupture,Good,0.86,231,375
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.55,267,479
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.30,75,42
+2025-04-29 09:37:42,Operator 1,wrinkle,Potentially Defective,0.26,278,475
+2025-04-29 09:37:42,Operator 1,rupture,Good,0.85,233,370
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.51,268,479
+2025-04-29 09:37:42,Operator 1,wrinkle,Potentially Defective,0.28,279,476
+2025-04-29 09:37:42,Operator 1,rupture,Good,0.85,233,368
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.54,268,479
+2025-04-29 09:37:42,Operator 1,rupture,Potentially Defective,0.43,76,37
+2025-04-29 09:37:42,Operator 1,wrinkle,Potentially Defective,0.28,279,474
+2025-04-29 09:37:43,Operator 1,rupture,Good,0.85,232,369
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.51,266,479
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.32,79,39
+2025-04-29 09:37:43,Operator 1,wrinkle,Potentially Defective,0.29,280,475
+2025-04-29 09:37:43,Operator 1,rupture,Good,0.85,232,371
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.63,267,479
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.29,128,88
+2025-04-29 09:37:43,Operator 1,rupture,Good,0.85,233,375
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.67,270,479
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.45,83,38
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.40,128,70
+2025-04-29 09:37:43,Operator 1,rupture,Good,0.85,233,379
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.68,267,479
+2025-04-29 09:37:43,Operator 1,rupture,Potentially Defective,0.31,137,110
+2025-04-29 09:37:44,Operator 1,rupture,Good,0.84,232,374
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.63,266,479
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.38,78,39
+2025-04-29 09:37:44,Operator 1,rupture,Good,0.86,232,368
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.67,264,479
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.46,138,113
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.33,134,263
+2025-04-29 09:37:44,Operator 1,rupture,Good,0.86,232,370
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.64,263,479
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.49,141,112
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.40,135,331
+2025-04-29 09:37:44,Operator 1,rupture,Good,0.85,233,367
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.58,262,479
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.42,136,114
+2025-04-29 09:37:44,Operator 1,rupture,Potentially Defective,0.30,134,290
+2025-04-29 09:37:45,Operator 1,rupture,Good,0.83,234,370
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.50,264,479
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.38,136,115
+2025-04-29 09:37:45,Operator 1,wrinkle,Potentially Defective,0.37,269,477
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.29,134,303
+2025-04-29 09:37:45,Operator 1,rupture,Good,0.83,230,372
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.57,260,479
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.42,132,112
+2025-04-29 09:37:45,Operator 1,wrinkle,Potentially Defective,0.31,273,476
+2025-04-29 09:37:45,Operator 1,rupture,Good,0.82,233,402
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.77,260,479
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.44,133,113
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.80,233,372
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.65,260,478
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.46,80,40
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.44,135,258
+2025-04-29 09:37:45,Operator 1,wrinkle,Potentially Defective,0.28,271,473
+2025-04-29 09:37:45,Operator 1,rupture,Good,0.82,237,398
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.61,262,478
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.52,134,247
+2025-04-29 09:37:45,Operator 1,rupture,Potentially Defective,0.29,138,109
+2025-04-29 09:37:46,Operator 1,rupture,Good,0.82,238,389
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.69,261,479
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.44,134,230
+2025-04-29 09:37:46,Operator 1,rupture,Good,0.82,234,436
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.69,261,479
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.46,133,240
+2025-04-29 09:37:46,Operator 1,rupture,Good,0.81,234,372
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.74,261,478
+2025-04-29 09:37:46,Operator 1,rupture,Good,0.84,235,376
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.74,261,478
+2025-04-29 09:37:46,Operator 1,rupture,Good,0.82,233,392
+2025-04-29 09:37:46,Operator 1,rupture,Potentially Defective,0.75,265,478
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.82,232,378
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.72,264,478
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.40,85,39
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.82,236,370
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.78,265,478
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.48,81,39
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.84,264,478
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.81,232,369
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.57,80,38
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.34,128,68
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.86,261,478
+2025-04-29 09:37:47,Operator 1,rupture,Good,0.80,231,372
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.48,79,39
+2025-04-29 09:37:47,Operator 1,rupture,Potentially Defective,0.28,131,71
+2025-04-29 09:37:48,Operator 1,rupture,Good,0.88,260,478
+2025-04-29 09:37:48,Operator 1,rupture,Good,0.84,233,371
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.43,132,116
+2025-04-29 09:37:48,Operator 1,rupture,Good,0.84,237,377
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.70,256,478
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.52,135,270
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.62,260,480
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.48,402,379
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.75,379,386
+2025-04-29 09:37:48,Operator 1,rupture,Potentially Defective,0.52,263,480
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.51,611,475
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.50,127,41
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.46,518,411
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.76,138,59
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.62,234,378
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.36,585,346
+2025-04-29 09:37:49,Operator 1,rupture,Good,0.85,150,73
+2025-04-29 09:37:49,Operator 1,wrinkle,Potentially Defective,0.68,633,348
+2025-04-29 09:37:49,Operator 1,rupture,Good,0.84,159,76
+2025-04-29 09:37:49,Operator 1,wrinkle,Potentially Defective,0.39,637,338
+2025-04-29 09:37:49,Operator 1,rupture,Potentially Defective,0.77,167,74
+2025-04-29 09:37:49,Operator 1,wrinkle,Potentially Defective,0.39,627,480
+2025-04-29 09:37:50,Operator 1,rupture,Good,0.91,173,102
+2025-04-29 09:37:50,Operator 1,wrinkle,Potentially Defective,0.54,526,463
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.27,112,477
+2025-04-29 09:37:50,Operator 1,rupture,Good,0.92,180,110
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.72,107,268
+2025-04-29 09:37:50,Operator 1,wrinkle,Potentially Defective,0.49,525,460
+2025-04-29 09:37:50,Operator 1,wrinkle,Good,0.93,50,49
+2025-04-29 09:37:50,Operator 1,rupture,Good,0.92,188,115
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.74,98,272
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.63,280,463
+2025-04-29 09:37:50,Operator 1,wrinkle,Potentially Defective,0.28,580,454
+2025-04-29 09:37:50,Operator 1,wrinkle,Good,0.93,49,52
+2025-04-29 09:37:50,Operator 1,rupture,Good,0.92,195,113
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.78,93,266
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.54,274,458
+2025-04-29 09:37:50,Operator 1,wrinkle,Good,0.94,50,50
+2025-04-29 09:37:50,Operator 1,rupture,Good,0.93,195,120
+2025-04-29 09:37:50,Operator 1,wrinkle,Potentially Defective,0.61,576,457
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.51,279,469
+2025-04-29 09:37:50,Operator 1,rupture,Potentially Defective,0.43,75,279
+2025-04-29 09:37:51,Operator 1,wrinkle,Good,0.97,50,54
+2025-04-29 09:37:51,Operator 1,rupture,Good,0.91,194,115
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.70,73,265
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.62,271,476
+2025-04-29 09:37:51,Operator 1,wrinkle,Potentially Defective,0.39,583,414
+2025-04-29 09:37:51,Operator 1,wrinkle,Good,0.98,51,54
+2025-04-29 09:37:51,Operator 1,rupture,Good,0.91,204,120
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.64,284,468
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.60,72,276
+2025-04-29 09:37:51,Operator 1,wrinkle,Good,0.97,55,58
+2025-04-29 09:37:51,Operator 1,rupture,Good,0.93,205,124
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.62,294,467
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.55,64,272
+2025-04-29 09:37:51,Operator 1,wrinkle,Good,0.97,54,56
+2025-04-29 09:37:51,Operator 1,rupture,Good,0.94,209,125
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.68,277,466
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.65,63,266
+2025-04-29 09:37:51,Operator 1,rupture,Good,0.94,208,127
+2025-04-29 09:37:51,Operator 1,wrinkle,Good,0.92,55,58
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.60,283,465
+2025-04-29 09:37:51,Operator 1,rupture,Potentially Defective,0.55,66,270
+2025-04-29 09:37:52,Operator 1,wrinkle,Good,0.98,52,56
+2025-04-29 09:37:52,Operator 1,rupture,Good,0.92,209,126
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.66,276,465
+2025-04-29 09:37:52,Operator 1,wrinkle,Potentially Defective,0.26,612,453
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.26,57,275
+2025-04-29 09:37:52,Operator 1,rupture,Good,0.93,214,128
+2025-04-29 09:37:52,Operator 1,wrinkle,Good,0.85,52,59
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.63,266,467
+2025-04-29 09:37:52,Operator 1,wrinkle,Good,0.99,55,53
+2025-04-29 09:37:52,Operator 1,rupture,Good,0.94,217,133
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.63,226,471
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.27,64,471
+2025-04-29 09:37:52,Operator 1,wrinkle,Good,0.98,54,61
+2025-04-29 09:37:52,Operator 1,rupture,Good,0.95,222,134
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.72,210,471
+2025-04-29 09:37:52,Operator 1,rupture,Potentially Defective,0.26,61,470
+2025-04-29 09:37:53,Operator 1,wrinkle,Good,0.97,59,58
+2025-04-29 09:37:53,Operator 1,rupture,Good,0.92,223,142
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.75,239,465
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.27,66,471
+2025-04-29 09:37:53,Operator 1,rupture,Good,0.84,223,141
+2025-04-29 09:37:53,Operator 1,wrinkle,Potentially Defective,0.71,55,58
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.68,248,468
+2025-04-29 09:37:53,Operator 1,wrinkle,Good,0.94,55,59
+2025-04-29 09:37:53,Operator 1,rupture,Good,0.87,223,146
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.65,246,469
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.31,225,30
+2025-04-29 09:37:53,Operator 1,wrinkle,Good,0.95,53,58
+2025-04-29 09:37:53,Operator 1,rupture,Good,0.86,221,144
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.68,218,474
+2025-04-29 09:37:53,Operator 1,rupture,Good,0.86,220,144
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.70,219,473
+2025-04-29 09:37:53,Operator 1,wrinkle,Potentially Defective,0.61,56,59
+2025-04-29 09:37:53,Operator 1,rupture,Potentially Defective,0.35,228,36
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.86,219,143
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.70,237,471
+2025-04-29 09:37:54,Operator 1,wrinkle,Potentially Defective,0.48,54,59
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.31,67,472
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.94,223,143
+2025-04-29 09:37:54,Operator 1,wrinkle,Good,0.89,58,58
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.75,252,463
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.31,232,39
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.26,58,480
+2025-04-29 09:37:54,Operator 1,wrinkle,Good,0.93,54,55
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.92,229,143
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.75,196,471
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.48,199,267
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.37,192,34
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.33,142,463
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.27,217,375
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.94,225,141
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.77,228,462
+2025-04-29 09:37:54,Operator 1,wrinkle,Potentially Defective,0.75,60,56
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.27,244,42
+2025-04-29 09:37:54,Operator 1,wrinkle,Good,0.96,54,59
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.93,229,147
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.69,239,461
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.32,239,35
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.28,63,475
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.25,119,464
+2025-04-29 09:37:54,Operator 1,wrinkle,Good,0.99,58,60
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.89,228,147
+2025-04-29 09:37:54,Operator 1,rupture,Good,0.83,182,473
+2025-04-29 09:37:54,Operator 1,rupture,Potentially Defective,0.67,235,461
+2025-04-29 09:37:55,Operator 1,rupture,Good,0.93,214,123
+2025-04-29 09:37:55,Operator 1,rupture,Good,0.90,192,478
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.61,169,96
+2025-04-29 09:37:55,Operator 1,wrinkle,Potentially Defective,0.55,627,457
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.28,344,478
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.51,234,458
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.38,491,477
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.64,141,373
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.64,228,464
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.52,224,391
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.42,263,477
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.75,227,454
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.72,137,227
+2025-04-29 09:37:55,Operator 1,rupture,Potentially Defective,0.42,263,438
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.76,227,460
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.70,136,228
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.46,275,471
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.70,226,471
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.53,135,245
+2025-04-29 09:37:56,Operator 1,wrinkle,Potentially Defective,0.29,195,479
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.76,226,468
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.61,135,227
+2025-04-29 09:37:56,Operator 1,wrinkle,Potentially Defective,0.31,263,475
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.30,263,475
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.78,226,433
+2025-04-29 09:37:56,Operator 1,wrinkle,Potentially Defective,0.51,274,473
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.45,134,240
+2025-04-29 09:37:56,Operator 1,rupture,Potentially Defective,0.25,276,471
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.74,226,467
+2025-04-29 09:37:57,Operator 1,wrinkle,Potentially Defective,0.26,283,477
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.76,226,452
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.73,375,464
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.51,586,461
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.80,361,467
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.73,225,461
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.61,541,460
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.47,103,343
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.77,361,472
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.72,226,458
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.41,590,462
+2025-04-29 09:37:57,Operator 1,rupture,Potentially Defective,0.34,102,396
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.74,380,474
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.67,225,462
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.25,596,464
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.78,379,476
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.68,534,473
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.66,225,467
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.79,377,476
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.68,225,459
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.61,242,479
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.29,554,471
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.26,342,474
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.73,382,477
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.66,240,477
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.59,439,473
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.54,226,465
+2025-04-29 09:37:58,Operator 1,wrinkle,Potentially Defective,0.29,460,479
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.73,374,479
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.68,232,478
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.64,226,463
+2025-04-29 09:37:58,Operator 1,rupture,Potentially Defective,0.59,382,474
+2025-04-29 09:37:58,Operator 1,wrinkle,Potentially Defective,0.44,454,480
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.76,385,478
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.72,226,449
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.71,258,477
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.64,386,473
+2025-04-29 09:37:59,Operator 1,wrinkle,Potentially Defective,0.59,447,480
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.75,382,478
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.67,258,477
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.61,226,459
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.61,498,473
+2025-04-29 09:37:59,Operator 1,wrinkle,Potentially Defective,0.52,431,480
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.65,225,470
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.61,387,475
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.46,566,467
+2025-04-29 09:37:59,Operator 1,rupture,Good,0.82,382,471
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.70,225,466
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.49,584,463
+2025-04-29 09:37:59,Operator 1,rupture,Good,0.85,244,470
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.75,226,456
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.54,74,395
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.41,134,226
+2025-04-29 09:37:59,Operator 1,rupture,Potentially Defective,0.25,149,140
+2025-04-29 09:38:00,Operator 1,rupture,Good,0.90,257,480
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.80,227,424
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.78,136,227
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.25,152,141
+2025-04-29 09:38:00,Operator 1,rupture,Good,0.88,136,225
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.79,250,480
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.79,229,411
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.35,354,400
+2025-04-29 09:38:00,Operator 1,wrinkle,Potentially Defective,0.34,80,54
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.25,447,70
+2025-04-29 09:38:00,Operator 1,rupture,Good,0.90,136,225
+2025-04-29 09:38:00,Operator 1,rupture,Good,0.80,229,388
+2025-04-29 09:38:00,Operator 1,wrinkle,Potentially Defective,0.79,77,53
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.73,257,477
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.44,263,334
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.36,138,70
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.34,372,69
+2025-04-29 09:38:00,Operator 1,wrinkle,Potentially Defective,0.31,78,78
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.28,126,35
+2025-04-29 09:38:00,Operator 1,rupture,Good,0.91,136,225
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.78,227,419
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.68,254,480
+2025-04-29 09:38:00,Operator 1,wrinkle,Potentially Defective,0.65,78,55
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.35,261,333
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.33,340,402
+2025-04-29 09:38:00,Operator 1,rupture,Potentially Defective,0.26,433,70
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.87,251,480
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.84,137,228
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.76,229,421
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.30,377,396
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.27,156,142
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.82,136,225
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.81,260,477
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.80,229,430
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.37,318,403
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.26,81,67
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.82,136,225
+2025-04-29 09:38:01,Operator 1,rupture,Good,0.80,258,478
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.80,228,435
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.78,136,226
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.73,227,461
+2025-04-29 09:38:01,Operator 1,rupture,Potentially Defective,0.71,261,469
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.77,225,436
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.67,265,473
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.35,75,455
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.29,136,239
+2025-04-29 09:38:02,Operator 1,rupture,Good,0.81,227,436
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.77,260,472
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.75,138,227
+2025-04-29 09:38:02,Operator 1,rupture,Good,0.81,135,225
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.79,226,438
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.76,259,465
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.37,142,139
+2025-04-29 09:38:02,Operator 1,rupture,Good,0.81,136,227
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.77,226,414
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.76,257,474
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.29,331,396
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.77,258,477
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.76,136,227
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.68,235,401
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.50,366,375
+2025-04-29 09:38:02,Operator 1,rupture,Good,0.83,136,227
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.76,227,462
+2025-04-29 09:38:02,Operator 1,rupture,Potentially Defective,0.74,258,478
+2025-04-29 09:38:02,Operator 1,wrinkle,Potentially Defective,0.34,248,480
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.85,137,226
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.77,227,439
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.71,259,479
+2025-04-29 09:38:03,Operator 1,wrinkle,Potentially Defective,0.26,247,480
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.84,137,226
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.79,258,478
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.75,229,460
+2025-04-29 09:38:03,Operator 1,wrinkle,Potentially Defective,0.27,250,480
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.27,153,142
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.83,136,225
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.82,258,478
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.77,226,410
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.26,353,395
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.82,137,225
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.81,257,477
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.80,228,433
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.82,137,227
+2025-04-29 09:38:03,Operator 1,rupture,Good,0.80,226,442
+2025-04-29 09:38:03,Operator 1,rupture,Potentially Defective,0.60,256,476
+2025-04-29 09:38:03,Operator 1,wrinkle,Potentially Defective,0.43,251,476
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.82,136,225
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.81,229,430
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.77,250,477
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.40,72,68
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.27,146,68
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.85,137,227
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.82,227,414
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.76,246,478
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.37,71,68
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.36,139,68
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.81,136,228
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.80,227,445
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.79,256,478
+2025-04-29 09:38:04,Operator 1,rupture,Good,0.83,227,420
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.79,257,478
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.76,134,227
+2025-04-29 09:38:04,Operator 1,rupture,Potentially Defective,0.27,147,67
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.82,257,478
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.76,226,460
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.74,134,226
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.80,255,478
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.80,226,452
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.77,136,227
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.84,257,478
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.81,227,438
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.74,136,227
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.30,150,142
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.86,256,478
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.82,226,454
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.81,136,229
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.27,150,142
+2025-04-29 09:38:05,Operator 1,rupture,Good,0.86,256,477
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.79,227,462
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.69,136,230
+2025-04-29 09:38:05,Operator 1,rupture,Potentially Defective,0.40,149,141
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.86,256,477
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.73,136,227
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.72,228,465
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.84,255,478
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.81,227,452
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.75,136,227
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.82,136,226
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.80,228,459
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.79,251,474
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.84,251,476
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.82,136,227
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.81,227,456
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.89,256,478
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.83,137,225
+2025-04-29 09:38:06,Operator 1,rupture,Good,0.80,226,390
+2025-04-29 09:38:06,Operator 1,rupture,Potentially Defective,0.37,151,143
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.88,256,479
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.84,136,226
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.80,226,420
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.34,151,143
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.84,137,226
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.84,257,480
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.81,226,414
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.30,151,143
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.84,256,480
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.81,136,226
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.81,229,445
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.86,257,480
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.83,136,225
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.80,227,444
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.28,152,142
+2025-04-29 09:38:07,Operator 1,rupture,Good,0.80,136,227
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.79,228,455
+2025-04-29 09:38:07,Operator 1,rupture,Potentially Defective,0.79,257,480
+2025-04-29 09:38:08,Operator 1,rupture,Good,0.81,138,222
+2025-04-29 09:38:08,Operator 1,rupture,Good,0.81,256,479
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.80,228,405
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.80,137,228
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.79,226,422
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.77,256,479
+2025-04-29 09:38:08,Operator 1,rupture,Good,0.80,136,229
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.80,226,459
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.74,256,478
+2025-04-29 09:38:08,Operator 1,rupture,Good,0.88,255,479
+2025-04-29 09:38:08,Operator 1,rupture,Good,0.81,227,458
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.78,137,228
+2025-04-29 09:38:08,Operator 1,rupture,Potentially Defective,0.28,151,142
+2025-04-29 09:38:09,Operator 1,rupture,Good,0.81,226,422
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.79,136,226
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.65,259,477
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.76,228,466
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.73,260,474
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.53,136,278
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.70,241,477
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.68,228,463
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.46,137,259
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.72,227,456
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.62,273,472
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.59,134,237
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.76,257,479
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.75,230,459
+2025-04-29 09:38:09,Operator 1,rupture,Potentially Defective,0.27,136,290
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.74,231,411
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.65,258,478
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.55,134,229
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.69,268,477
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.66,232,463
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.76,227,438
+2025-04-29 09:38:10,Operator 1,rupture,Potentially Defective,0.68,270,476
